@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/borra/Documents/Unreal Projects/Entrega3/Entrega3/Content/Blueprints/BP_Cube.uasset",
+				"C:/Users/borra/Documents/Unreal Projects/Entrega3/Entrega3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/5K/D7H3IVW28TTXIM0DV8XCHU.uasset",
+				"C:/Users/borra/Documents/Unreal Projects/Entrega3/Entrega3/Content/Enums/Letters_Enum.uasset",
+				"C:/Users/borra/Documents/Unreal Projects/Entrega3/Entrega3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}

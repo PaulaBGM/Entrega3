@@ -1,0 +1,10 @@
+[12180:13944:1228/142055.072:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12180:6948:1228/142055.506:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12180:13944:1228/142055.594:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12180:13944:1228/161507.083:ERROR:device_event_log_impl.cc(196)] [16:15:07.041] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[12180:13944:1228/182213.371:ERROR:device_event_log_impl.cc(196)] [18:22:13.328] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[12180:13944:1228/194050.765:ERROR:device_event_log_impl.cc(196)] [19:40:50.761] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[12180:13944:1228/194925.084:ERROR:device_event_log_impl.cc(196)] [19:49:25.043] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[12180:13944:1228/205226.350:ERROR:device_event_log_impl.cc(196)] [20:52:26.345] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[12180:13944:1228/210433.502:ERROR:device_event_log_impl.cc(196)] [21:04:33.502] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[12180:13944:1228/211320.242:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

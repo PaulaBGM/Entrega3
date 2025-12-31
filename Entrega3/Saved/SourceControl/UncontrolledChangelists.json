@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/borra/Documents/GitHub/Entrega3/Entrega3/Content/Characters/BP_Peter.uasset",
+				"C:/Users/borra/Documents/GitHub/Entrega3/Entrega3/Content/Blueprints_Scripting/BP_Cube.uasset",
+				"C:/Users/borra/Documents/GitHub/Entrega3/Entrega3/Content/Blueprints_Scripting/BP_PuzzlePlatform.uasset",
 				"C:/Users/joaqu/Downloads/Entrega3/Entrega3/Content/Models/Blocks/Test/Test1/Cube.uasset",
 				"C:/Users/joaqu/Downloads/Entrega3/Entrega3/Content/Models/Blocks/Test/Test1/SM_Material_BaseColor.uasset",
 				"C:/Users/joaqu/Downloads/Entrega3/Entrega3/Content/Models/Blocks/Test/Test1/SM_Material_Normal.uasset",

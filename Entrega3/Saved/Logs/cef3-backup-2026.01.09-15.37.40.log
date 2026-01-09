@@ -1,0 +1,25 @@
+[2348:28960:0109/160026.405:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2348:7052:0109/160026.503:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2348:28960:0109/160026.539:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2348:7052:0109/160030.570:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2348:7052:0109/160030.572:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2348:7052:0109/160030.573:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2348:7052:0109/160030.575:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2348:36660:0109/160035.079:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2348:36660:0109/160035.082:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2348:33772:0109/160035.277:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2348:16760:0109/160038.772:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/160038.794:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:28960:0109/160042.767:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
+[2348:16760:0109/160442.488:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/160852.091:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/161119.396:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/161119.482:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/161205.472:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/161206.392:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/161424.079:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/161946.377:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/163414.987:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/163502.577:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:16760:0109/163601.978:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2348:28960:0109/163740.207:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

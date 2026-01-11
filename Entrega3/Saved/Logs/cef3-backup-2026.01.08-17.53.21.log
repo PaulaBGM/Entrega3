@@ -1,36 +1,0 @@
-[8700:19140:0108/163653.292:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8700:26976:0108/163653.405:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8700:19140:0108/163653.431:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8700:35416:0108/163658.179:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8700:35416:0108/163658.184:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8700:35416:0108/163658.190:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8700:35416:0108/163658.193:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8700:35416:0108/163700.965:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8700:35416:0108/163700.972:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8700:23136:0108/163701.209:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8700:23804:0108/163704.879:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/163705.443:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/163928.165:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/164119.171:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/164713.493:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[12568:13696:0108/165601.473:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[8700:23804:0108/172053.307:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/172618.387:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/173338.013:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/173425.513:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/173710.456:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/174058.670:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/174125.999:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/174238.308:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/174431.201:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/174702.986:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/174814.340:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/175228.774:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/180058.881:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/181315.349:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/181631.262:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/181944.907:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/183212.660:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/183547.010:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:23804:0108/185031.081:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8700:19140:0108/185321.695:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

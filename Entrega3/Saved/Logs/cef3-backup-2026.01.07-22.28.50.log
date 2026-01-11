@@ -1,21 +1,0 @@
-[14148:11552:0107/222524.124:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14148:21744:0107/222524.216:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[14148:11552:0107/222524.247:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14148:27780:0107/222528.115:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14148:27780:0107/222528.121:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14148:27780:0107/222528.124:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14148:27780:0107/222528.127:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14148:32036:0107/222528.809:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14148:32036:0107/222528.810:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14148:14324:0107/222529.752:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14148:8928:0107/222532.177:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:8928:0107/222532.964:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:8928:0107/223232.858:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:8928:0107/223637.379:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:8928:0107/223833.024:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:8928:0107/224123.986:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:8928:0107/224659.720:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:8928:0107/231159.281:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:8928:0107/232113.114:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:8928:0107/232445.744:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14148:11552:0107/232850.585:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

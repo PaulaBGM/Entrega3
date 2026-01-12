@@ -1,0 +1,27 @@
+[7296:3792:0112/161049.494:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7296:20240:0112/161049.565:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7296:3792:0112/161049.604:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7296:15700:0112/161052.933:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7296:15700:0112/161052.938:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7296:15700:0112/161052.939:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7296:15700:0112/161052.941:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7296:15700:0112/161057.923:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7296:15700:0112/161057.926:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16124:24360:0112/161058.294:ERROR:block_files.cc(114)] Failing CreateMapBlock
+[16124:24360:0112/161058.294:ERROR:entry_impl.cc(955)] Failed to save user data
+[16124:24360:0112/161058.401:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[16124:24360:0112/161058.401:ERROR:block_files.cc(114)] Failing CreateMapBlock
+[16124:24360:0112/161058.403:ERROR:backend_impl.cc(580)] Create entry failed 1/0/_dk_https://unrealengine.com https://unrealengine.com https://editor.unrealengine.com/cdn-cgi/challenge-platform/scripts/jsd/main.js
+[16124:24360:0112/161058.488:ERROR:backend_impl.cc(989)] Critical error found -8
+[16124:24360:0112/161058.488:WARNING:storage_block-inl.h(138)] Failed data load.
+[16124:24360:0112/161058.488:WARNING:storage_block-inl.h(138)] Failed data load.
+[16124:24360:0112/161058.488:WARNING:storage_block-inl.h(138)] Failed data load.
+[16124:24360:0112/161058.488:WARNING:storage_block-inl.h(138)] Failed data load.
+[16124:24360:0112/161058.488:ERROR:entry_impl.cc(1029)] No file for b2020020
+[16124:24360:0112/161058.489:WARNING:storage_block-inl.h(138)] Failed data load.
+[16124:24360:0112/161058.583:WARNING:storage_block-inl.h(138)] Failed data load.
+[16124:24360:0112/161058.583:WARNING:storage_block-inl.h(138)] Failed data load.
+[16124:24360:0112/161058.583:WARNING:storage_block-inl.h(138)] Failed data load.
+[7296:20148:0112/161100.800:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7296:24624:0112/161101.656:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7296:3792:0112/163909.533:ERROR:device_event_log_impl.cc(196)] [16:39:09.510] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)

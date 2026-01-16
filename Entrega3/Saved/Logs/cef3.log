@@ -1,96 +1,12 @@
-[10364:13264:0116/000628.241:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10364:13264:0116/000628.267:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[10364:9712:0116/000628.294:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[10364:13264:0116/000628.318:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10364:17904:0116/000631.916:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10364:17904:0116/000631.919:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10364:17904:0116/000631.921:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10364:17904:0116/000631.923:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10364:15332:0116/000634.425:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10364:15332:0116/000634.426:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10364:24604:0116/000634.580:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[9396:11956:0116/000634.899:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-67FC55BE3EFD62AE4B3753FF4D124FF7 will be ignored
-[8080:11768:0116/000634.978:ERROR:backend_impl.cc(989)] Critical error found -8
-[8080:11768:0116/000634.978:ERROR:entry_impl.cc(1029)] No file for c103005a
-[8080:11768:0116/000634.979:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.088:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.088:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.088:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.088:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.089:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.089:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.096:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.096:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.098:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.098:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.099:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.100:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.100:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.100:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.100:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.100:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.100:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.101:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.101:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.101:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.101:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.102:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.102:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.102:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.102:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.102:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.102:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.103:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.104:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.104:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.104:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.104:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.104:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.105:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.105:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.105:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.105:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.150:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.150:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.151:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.163:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.163:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.168:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.168:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.169:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.218:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.218:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.218:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.218:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.218:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.218:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.218:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.218:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.247:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.247:WARNING:storage_block-inl.h(138)] Failed data load.
-[8080:11768:0116/000635.248:ERROR:entry_impl.cc(955)] Failed to save user data
-[8080:11768:0116/000635.288:ERROR:entry_impl.cc(955)] Failed to save user data
-[10364:13264:0116/005841.206:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21264:21468:0116/224517.288:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21264:24188:0116/224517.353:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21264:21468:0116/224517.388:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21264:24188:0116/224520.700:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21264:24188:0116/224520.702:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21264:24188:0116/224520.704:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21264:24188:0116/224520.705:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21264:3548:0116/224524.203:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21264:10832:0116/224524.832:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21264:10832:0116/224524.834:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3012:17692:0116/224526.470:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-51697F92AB7FC99EF3874CC3D2E52C65 will be ignored
+[21264:21468:0116/230447.523:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

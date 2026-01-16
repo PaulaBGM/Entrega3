@@ -1,9 +1,3 @@
-<<<<<<< Updated upstream
-2026/01/05-18:26:37.231 9634 Reusing MANIFEST C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/01/05-18:26:37.237 9634 Recovering log #3
-2026/01/05-18:26:37.239 9634 Reusing old log C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-=======
-2026/01/15-23:31:00.439 2d5c Reusing MANIFEST C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/01/15-23:31:00.443 2d5c Recovering log #3
-2026/01/15-23:31:00.445 2d5c Reusing old log C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
->>>>>>> Stashed changes
+2026/01/16-02:35:52.951 6cf4 Reusing MANIFEST C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/16-02:35:52.957 6cf4 Recovering log #3
+2026/01/16-02:35:52.963 6cf4 Reusing old log C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 

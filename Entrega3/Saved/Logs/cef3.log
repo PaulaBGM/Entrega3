@@ -1,19 +1,13 @@
-<<<<<<< Updated upstream
-[15036:16136:0105/182637.150:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15036:38852:0105/182637.183:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[15036:16136:0105/182637.192:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15036:16136:0105/184122.807:ERROR:device_event_log_impl.cc(196)] [18:41:22.803] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[15036:16136:0105/184809.717:ERROR:device_event_log_impl.cc(196)] [18:48:09.670] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[15036:16136:0105/190335.897:ERROR:device_event_log_impl.cc(196)] [19:03:35.894] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[15036:16136:0105/190824.664:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[35044:38188:0115/233100.364:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[35044:23604:0115/233100.397:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[35044:38188:0115/233100.409:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8484:17544:0115/233109.116:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8C10D3CB9BE68A4EB5C7FCBCD88D9419 will be ignored
-[35044:5364:0115/234843.759:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[38596:23440:0115/234843.772:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[38596:15592:0115/234844.335:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[35044:21716:0115/234844.335:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[35044:38188:0116/000051.054:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> Stashed changes
+[20028:29056:0116/023552.420:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20028:29056:0116/023552.605:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[20028:30804:0116/023552.726:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20028:29056:0116/023552.849:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20028:12916:0116/023559.589:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20028:12916:0116/023559.594:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20028:12916:0116/023559.596:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20028:12916:0116/023559.597:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20028:30804:0116/023600.829:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20028:30804:0116/023600.836:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20028:31140:0116/023600.932:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20964:2540:0116/023601.342:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9F6B47FA3E08DDDC57C4739482CD8F5D will be ignored
+[20028:29056:0116/033010.349:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

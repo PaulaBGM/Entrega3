@@ -1,0 +1,51 @@
+[18664:15844:0117/162040.105:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18664:15844:0117/162040.123:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[18664:15560:0117/162040.148:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18664:15844:0117/162040.162:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18664:15560:0117/162043.052:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18664:15560:0117/162043.060:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18664:15560:0117/162043.068:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18664:15560:0117/162043.075:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18664:21600:0117/162045.999:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18664:21600:0117/162046.003:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18500:18504:0117/162046.034:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18664:2452:0117/162046.400:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[9816:24880:0117/162046.511:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ECE574D72D61BDA7B7D777E621A02EAA will be ignored
+[18500:18504:0117/162046.586:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.588:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.589:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.589:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.589:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.590:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.590:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[18500:18504:0117/162046.591:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.591:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.591:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.591:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.592:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.592:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.592:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.592:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.885:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162046.999:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162047.219:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162047.219:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162047.219:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162047.219:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162047.268:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162047.454:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162047.454:WARNING:backend_impl.cc(1543)] Messed up entry found.
+[18500:18504:0117/162047.683:ERROR:backend_impl.cc(989)] Critical error found -8
+[18500:18504:0117/162047.683:WARNING:storage_block-inl.h(138)] Failed data load.
+[18500:18504:0117/162047.683:ERROR:entry_impl.cc(1029)] No file for c10300c4
+[18500:18504:0117/162047.683:WARNING:storage_block-inl.h(138)] Failed data load.
+[18500:18504:0117/162047.988:ERROR:entry_impl.cc(955)] Failed to save user data
+[18500:18504:0117/162048.001:WARNING:storage_block-inl.h(138)] Failed data load.
+[18500:18504:0117/162048.001:WARNING:storage_block-inl.h(138)] Failed data load.
+[18500:18504:0117/162048.001:WARNING:storage_block-inl.h(138)] Failed data load.
+[18500:18504:0117/162048.001:WARNING:storage_block-inl.h(138)] Failed data load.
+[18500:18504:0117/162048.002:WARNING:storage_block-inl.h(138)] Failed data load.
+[18500:18504:0117/162048.002:WARNING:storage_block-inl.h(138)] Failed data load.
+[18500:18504:0117/162048.002:ERROR:entry_impl.cc(955)] Failed to save user data
+[18500:18504:0117/162048.002:ERROR:entry_impl.cc(955)] Failed to save user data
+[18664:15844:0117/162340.838:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

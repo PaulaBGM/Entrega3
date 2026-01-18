@@ -1,2 +1,3 @@
-2026/01/18-13:26:09.638 1da4 Creating DB C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
-2026/01/18-13:26:09.673 1da4 Reusing MANIFEST C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/18-15:55:03.244 8ec Reusing MANIFEST C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/18-15:55:03.250 8ec Recovering log #3
+2026/01/18-15:55:03.252 8ec Reusing old log C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 

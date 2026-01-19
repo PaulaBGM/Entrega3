@@ -1,28 +1,12 @@
-[8924:10480:0119/131311.692:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8924:10480:0119/131311.943:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[8924:12156:0119/131312.033:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8924:10480:0119/131312.109:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8924:12156:0119/131316.518:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8924:12156:0119/131316.520:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8924:12156:0119/131316.522:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8924:12156:0119/131316.524:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8924:37180:0119/131317.028:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8924:37180:0119/131317.029:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[37908:30076:0119/131317.227:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8D4F11BD7C475F9E29C16D567DF90AF6 will be ignored
-[37252:23216:0119/131317.591:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[37252:23216:0119/131317.647:ERROR:backend_impl.cc(989)] Critical error found -8
-[37252:23216:0119/131317.647:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.647:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.647:ERROR:entry_impl.cc(1029)] No file for b2020018
-[37252:23216:0119/131317.647:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.737:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.737:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.738:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.739:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.739:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.741:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.762:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.762:WARNING:storage_block-inl.h(138)] Failed data load.
-[37252:23216:0119/131317.762:WARNING:storage_block-inl.h(138)] Failed data load.
-[8924:2076:0119/131320.581:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[8924:10480:0119/151422.129:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[36816:20108:0119/165617.994:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36816:20516:0119/165618.059:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36816:20108:0119/165618.089:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36816:6356:0119/165620.432:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36816:6356:0119/165620.434:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36816:6356:0119/165620.436:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36816:6356:0119/165620.438:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36816:6952:0119/165622.580:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36816:6952:0119/165622.581:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36816:26664:0119/165623.552:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6152:23152:0119/165624.417:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FC267EAB01E63EAFAF20E0B4A3272EF0 will be ignored
+[36816:20108:0119/173249.090:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

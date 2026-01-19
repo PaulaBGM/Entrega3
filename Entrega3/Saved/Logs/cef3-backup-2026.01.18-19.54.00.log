@@ -1,32 +1,0 @@
-[24704:22724:0118/203354.898:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24704:22724:0118/203354.971:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[24704:8940:0118/203355.041:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24704:22724:0118/203355.121:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24704:8940:0118/203406.940:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24704:8940:0118/203406.943:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24704:8940:0118/203406.947:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24704:8940:0118/203406.949:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24704:22724:0118/203410.689:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/203410.689:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[24704:14272:0118/203411.099:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\joaqu\Downloads\Entrega3\Entrega3\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24704:8940:0118/203411.649:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24704:8940:0118/203411.649:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24704:22724:0118/203900.630:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/203905.654:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/203910.719:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/203915.722:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/203920.766:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/203926.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/203931.244:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/203936.302:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/203956.406:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/204006.418:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/204517.203:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/205000.972:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/205021.051:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/205026.080:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/205051.431:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/205056.430:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/205101.431:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/205106.433:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[24704:22724:0118/205400.179:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

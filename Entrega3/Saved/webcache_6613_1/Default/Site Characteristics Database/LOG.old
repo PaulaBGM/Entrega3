@@ -1,7 +1,1 @@
-2026/01/20-03:49:34.698 79e4 Log #9: 13 ops saved to Table #10 OK
-2026/01/20-03:49:34.703 79e4 Archiving C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Site Characteristics Database/000009.log: OK
-2026/01/20-03:49:34.715 79e4 Table #4: 3 entries OK
-2026/01/20-03:49:34.728 79e4 Table #7: 1 entries OK
-2026/01/20-03:49:34.729 79e4 Table #10: 13 entries OK
-2026/01/20-03:49:34.750 79e4 Archiving C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/01/20-03:49:34.762 79e4 **** Repaired leveldb C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 3 files; 684 bytes. Some data may have been lost. ****
+2026/01/20-03:49:34.793 79e4 Reusing MANIFEST C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001

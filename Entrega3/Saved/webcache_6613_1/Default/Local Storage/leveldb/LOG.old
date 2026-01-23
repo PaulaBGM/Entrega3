@@ -1,2 +1,3 @@
-2026/01/22-23:14:37.569 24e8 Creating DB C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
-2026/01/22-23:14:37.596 24e8 Reusing MANIFEST C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/23-09:45:44.633 a1fc Reusing MANIFEST C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/23-09:45:44.637 a1fc Recovering log #3
+2026/01/23-09:45:44.638 a1fc Reusing old log C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [20028:29056:0116/023552.420:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [20028:29056:0116/023552.605:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
 [20028:30804:0116/023552.726:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
@@ -11,3 +12,18 @@
 [20028:31140:0116/023600.932:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\borra\Documents\GitHub\Entrega3\Entrega3\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [20964:2540:0116/023601.342:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9F6B47FA3E08DDDC57C4739482CD8F5D will be ignored
 [20028:29056:0116/033010.349:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[28240:39564:0125/145259.106:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28240:39564:0125/145259.118:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[28240:22156:0125/145259.144:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28240:39564:0125/145259.152:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28240:5464:0125/145300.773:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28240:5464:0125/145300.776:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28240:5464:0125/145300.778:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28240:5464:0125/145300.781:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28240:5464:0125/145302.426:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28240:5464:0125/145302.428:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[39108:10732:0125/145303.228:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-18825E9EC16360ACDFC7893B4048563B will be ignored
+[28240:40352:0125/145306.373:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\GCM Store\Encryption: IO error: C:\Users\borra\Documents\Unreal Projects\Entrega3\Entrega3\Saved\webcache_6613_1\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28240:39564:0125/161251.489:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
